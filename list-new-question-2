@@ -1,0 +1,23 @@
+NEED OUTPUT
+
+
+Input:
+5
+1
+2 
+3 
+4 
+5
+Code:
+n = int(input())
+li = []
+for i in range(n):
+    li.append(input())
+print(li)
+
+
+
+OUTPUT
+
+['1','2','3','4','5']
+
